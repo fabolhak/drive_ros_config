@@ -7,3 +7,15 @@
 [submodule "modules/realsense_gazebo_plugin"]
 	path = modules/realsense_gazebo_plugin
 	url = https://github.com/tum-phoenix/realsense_gazebo_plugin.git
+[submodule "modules/drive_ros_gazebo_control"]
+	path = modules/drive_ros_gazebo_control
+	url = https://github.com/tum-phoenix/drive_ros_gazebo_control
+[submodule "modules/realsense-ros"]
+	path = modules/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros
+[submodule "modules/drive_ros_uavcan"]
+	path = modules/drive_ros_uavcan
+	url = https://github.com/tum-phoenix/drive_ros_uavcan
+[submodule "modules/drive_teensy_main"]
+	path = modules/drive_teensy_main
+	url = https://github.com/tum-phoenix/drive_teensy_main
